@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApp", "MyApp\MyApp.csproj", "{9B1918A3-6C00-4020-A165-84E3AA362C77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheForgetTime.GtkSharp.Hosting", "TheForgetTime.GtkSharp.Hosting\TheForgetTime.GtkSharp.Hosting.csproj", "{03568679-D4A4-4AD2-A1F8-AC7158FF7F8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B1918A3-6C00-4020-A165-84E3AA362C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1918A3-6C00-4020-A165-84E3AA362C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1918A3-6C00-4020-A165-84E3AA362C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1918A3-6C00-4020-A165-84E3AA362C77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03568679-D4A4-4AD2-A1F8-AC7158FF7F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03568679-D4A4-4AD2-A1F8-AC7158FF7F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03568679-D4A4-4AD2-A1F8-AC7158FF7F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03568679-D4A4-4AD2-A1F8-AC7158FF7F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

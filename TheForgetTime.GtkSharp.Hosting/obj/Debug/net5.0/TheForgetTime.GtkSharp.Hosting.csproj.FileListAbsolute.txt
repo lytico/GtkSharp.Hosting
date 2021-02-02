@@ -1,0 +1,12 @@
+/home/auser/RiderProjects/MyApp/TheForgetTime.GtkSharp.Hosting/bin/Debug/net5.0/TheForgetTime.GtkSharp.Hosting.deps.json
+/home/auser/RiderProjects/MyApp/TheForgetTime.GtkSharp.Hosting/bin/Debug/net5.0/TheForgetTime.GtkSharp.Hosting.dll
+/home/auser/RiderProjects/MyApp/TheForgetTime.GtkSharp.Hosting/bin/Debug/net5.0/ref/TheForgetTime.GtkSharp.Hosting.dll
+/home/auser/RiderProjects/MyApp/TheForgetTime.GtkSharp.Hosting/bin/Debug/net5.0/TheForgetTime.GtkSharp.Hosting.pdb
+/home/auser/RiderProjects/MyApp/TheForgetTime.GtkSharp.Hosting/obj/Debug/net5.0/TheForgetTime.GtkSharp.Hosting.csprojAssemblyReference.cache
+/home/auser/RiderProjects/MyApp/TheForgetTime.GtkSharp.Hosting/obj/Debug/net5.0/TheForgetTime.GtkSharp.Hosting.GeneratedMSBuildEditorConfig.editorconfig
+/home/auser/RiderProjects/MyApp/TheForgetTime.GtkSharp.Hosting/obj/Debug/net5.0/TheForgetTime.GtkSharp.Hosting.AssemblyInfoInputs.cache
+/home/auser/RiderProjects/MyApp/TheForgetTime.GtkSharp.Hosting/obj/Debug/net5.0/TheForgetTime.GtkSharp.Hosting.AssemblyInfo.cs
+/home/auser/RiderProjects/MyApp/TheForgetTime.GtkSharp.Hosting/obj/Debug/net5.0/TheForgetTime.GtkSharp.Hosting.csproj.CoreCompileInputs.cache
+/home/auser/RiderProjects/MyApp/TheForgetTime.GtkSharp.Hosting/obj/Debug/net5.0/TheForgetTime.GtkSharp.Hosting.dll
+/home/auser/RiderProjects/MyApp/TheForgetTime.GtkSharp.Hosting/obj/Debug/net5.0/ref/TheForgetTime.GtkSharp.Hosting.dll
+/home/auser/RiderProjects/MyApp/TheForgetTime.GtkSharp.Hosting/obj/Debug/net5.0/TheForgetTime.GtkSharp.Hosting.pdb

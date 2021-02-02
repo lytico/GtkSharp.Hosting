@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fusr_002Flib_002Fmono_002Fgac_002Fatk_002Dsharp_002F2_002E12_002E0_002E0_005F_005F35e10195dab3c99f_002Fatk_002Dsharp_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fusr_002Flib_002Fmono_002Fgac_002Fcairo_002Dsharp_002F1_002E10_002E0_002E0_005F_005F0738eb9f132ed756_002Fcairo_002Dsharp_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fusr_002Flib_002Fmono_002Fgac_002Fgdk_002Dsharp_002F2_002E12_002E0_002E0_005F_005F35e10195dab3c99f_002Fgdk_002Dsharp_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fusr_002Flib_002Fmono_002Fgac_002Fglade_002Dsharp_002F2_002E12_002E0_002E0_005F_005F35e10195dab3c99f_002Fglade_002Dsharp_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fusr_002Flib_002Fmono_002Fgac_002Fglib_002Dsharp_002F2_002E12_002E0_002E0_005F_005F35e10195dab3c99f_002Fglib_002Dsharp_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fusr_002Flib_002Fmono_002Fgac_002Fgtk_002Ddotnet_002F2_002E12_002E0_002E0_005F_005F35e10195dab3c99f_002Fgtk_002Ddotnet_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fusr_002Flib_002Fmono_002Fgac_002Fgtk_002Dsharp_002F2_002E12_002E0_002E0_005F_005F35e10195dab3c99f_002Fgtk_002Dsharp_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fusr_002Flib_002Fmono_002Fgac_002Fpango_002Dsharp_002F2_002E12_002E0_002E0_005F_005F35e10195dab3c99f_002Fpango_002Dsharp_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/usr/share/dotnet/packs/Microsoft.AspNetCore.App.Ref/5.0.0/ref/net5.0/Microsoft.Extensions.Hosting.dll" /&gt;
+  &lt;Assembly Path="/usr/share/dotnet/packs/Microsoft.AspNetCore.App.Ref/5.0.0/ref/net5.0/Microsoft.AspNetCore.Hosting.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
