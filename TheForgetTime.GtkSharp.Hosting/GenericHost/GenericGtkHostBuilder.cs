@@ -133,8 +133,8 @@ namespace GtkSharp.Hosting
         {
             _builder.ConfigureAppConfiguration((context, builder) =>
             {
-                var webhostBuilderContext = GetGtkHostBuilderContext(context);
-                configureDelegate(webhostBuilderContext, builder);
+                var gtkHostBuilderContext = GetGtkHostBuilderContext(context);
+                configureDelegate(gtkHostBuilderContext, builder);
             });
 
             return this;

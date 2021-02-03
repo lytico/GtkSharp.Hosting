@@ -13,11 +13,6 @@ namespace GtkSharp.Hosting
             ApplicationServices = serviceProvider;
         }
 
-        private ApplicationBuilder(ApplicationBuilder builder)
-        {
-            Properties = new CopyOnWriteDictionary<string, object?>(builder.Properties, StringComparer.Ordinal);
-        }
-
         public IServiceProvider ApplicationServices
         {
             get => GetProperty<IServiceProvider>(ApplicationServicesKey)!;
@@ -25,11 +20,6 @@ namespace GtkSharp.Hosting
         }
 
         public IDictionary<string, object?> Properties { get; }
-
-        public IApplicationBuilder New()
-        {
-            return new ApplicationBuilder(this);
-        }
 
         private T? GetProperty<T>(string key)
         {

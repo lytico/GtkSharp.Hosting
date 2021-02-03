@@ -8,7 +8,5 @@ namespace GtkSharp.Hosting
         IServiceProvider ApplicationServices { get; set; }
 
         IDictionary<string, object?> Properties { get; }
-
-        IApplicationBuilder New();
     }
 }

@@ -16,7 +16,7 @@ namespace GtkSharp.Hosting
             var window = (Window) app.ApplicationServices.GetRequiredService<IMainWindow>();
             if (window is null)
             {
-                throw new InvalidOperationException($"请先调用{nameof(IServiceCollection)}的扩展方法 AddMainWindow 设置一个住窗体");
+                throw new InvalidOperationException($"Please call {nameof(IServiceCollection)} extension method AddMainWindow to set a main window");
             }
 
             windowConfigure(window);

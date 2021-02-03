@@ -4,6 +4,13 @@
         <TargetFramework>net5.0</TargetFramework>
         <RootNamespace>GtkSharp.Hosting</RootNamespace>
         <Nullable>enable</Nullable>
+        <Title>TheForgetTime.GtkSharp.Hosting</Title>
+        <Authors>TheForgetTime</Authors>
+        <Description>Add gtksharp to the general host like aspnetcore</Description>
+        <RepositoryUrl>https://gitee.com/n__n/gtk-sharp.-hosting.git</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>GtkSharp,Hosting</PackageTags>
+        <PackageLicenseUrl>https://gitee.com/n__n/gtk-sharp.-hosting/blob/master/LICENSE</PackageLicenseUrl>
     </PropertyGroup>
 
     <ItemGroup>

@@ -31,8 +31,7 @@ namespace GtkSharp.Hosting
                 var configure = Options.ConfigureApplication;
                 if (configure == null)
                 {
-                    throw new InvalidOperationException(
-                        $"未配置任何应用程序。请通过IGtkHostBuilder.UseStartup，IGtkHostBuilder.Configure指定一个应用程序，或通过GtkHost配置中的{nameof(GtkHostDefaults.StartupAssemblyKey)}指定启动程序集。");
+                    throw new InvalidOperationException($"No application configured. Please specify an application via IGtkHostBuilder.UseStartup, IGtkHostBuilder.Configure, or specifying the startup assembly via {nameof(GtkHostDefaults.StartupAssemblyKey)} in the gtk host configuration.");
                 }
 
                 var builder = ApplicationBuilderFactory.CreateBuilder();

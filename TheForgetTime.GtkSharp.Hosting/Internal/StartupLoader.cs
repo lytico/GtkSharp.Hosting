@@ -7,7 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace GtkSharp.Hosting
 {
-    internal class StartupLoader
+    internal sealed class StartupLoader
     {
         public static StartupMethods LoadMethods(IServiceProvider hostingServiceProvider,
             [DynamicallyAccessedMembers(StartupLinkerOptions.Accessibility)]

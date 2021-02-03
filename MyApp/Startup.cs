@@ -1,3 +1,4 @@
+using Gdk;
 using Gtk;
 using GtkSharp.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -33,6 +34,7 @@ namespace MyApp
             {
                 window.SetDefaultSize(800, 600);
                 window.SetPosition(WindowPosition.Center);
+                window.Icon=Pixbuf.LoadFromResource("icon.png");
             });
         }
     }

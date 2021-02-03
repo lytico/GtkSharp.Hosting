@@ -1,8 +1,10 @@
 ﻿#nullable enable
 using System;
 using GtkSharp.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using MyApp.Data;
 
 namespace MyApp
 {
@@ -11,7 +13,8 @@ namespace MyApp
         [STAThread]
         public static void Main(string[] args)
         {
-            CreateHostBuilder(args).Build().Run();
+            CreateHostBuilder(args).Build()
+                .Run();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args)

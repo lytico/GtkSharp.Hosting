@@ -29,6 +29,13 @@
             <CopyToOutputDirectory>Always</CopyToOutputDirectory>
         </Content>
     </ItemGroup>
+    
+    <ItemGroup>
+        <None Remove="icon.png" />
+        <EmbeddedResource Include="icon.png">
+            <LogicalName>icon.png</LogicalName>
+        </EmbeddedResource>
+    </ItemGroup>
 
     <ItemGroup>
         <EmbeddedResource Include="**\*.glade">

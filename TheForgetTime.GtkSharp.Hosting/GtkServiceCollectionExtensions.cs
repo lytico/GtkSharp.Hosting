@@ -12,7 +12,8 @@ namespace GtkSharp.Hosting
         {
             if (services is null) throw new ArgumentNullException(nameof(services));
 
-            services.TryAddSingleton<IMainWindow, T>();
+            // 这个地方必须是 Scoped 否则在窗口依赖DbContext实例时无法添加迁移
+            services.TryAddScoped<IMainWindow, T>();
         }
     }
 }
